@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#278AB5</color>
+    <color name="primary5">#ecefee</color>
+    <color name="lighterBlue">#D8F3FF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="lightBlack20">#D6D6D6</color>
+    <color name="lightBlack40">#AAAAAA</color>
+    <color name="lightBlack80">#505050</color>
+    <color name="lightBlack90">#2B2B2B</color>
+    <color name="hintText">#B4B4B4</color>
+    <color name="inputBorder">#707070</color>
+    <color name="grey100">#F5F5F5</color>
+    <color name="transparent">#0000000</color>
+    <color name="blueGray50">#ECEFF1</color>
+    <color name="red">#F44336</color>
+    <color name="pageBackgroundColor">#FFFFFF</color>
+    <color name="lightGrey40">#F1F1F1</color>
+
+</resources>
